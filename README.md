@@ -7,8 +7,8 @@
 # 👋 I'm <span style="color:#ff2c2c;">Anant kumar tanti</span>
 ### Full Stack Developer • Web3 Builder • AI Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff2c2c?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2-0-rust-zeta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff2c2c?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anant-kumar-tanti-8a0420316)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff2c2c?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-nine-beryl.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff2c2c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-kumar-tanti-8a0420316)
 [![Email](https://img.shields.io/badge/Gmail-ff2c2c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantkr10000@gmail.com)
 
 </div>
