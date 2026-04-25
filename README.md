@@ -41,9 +41,9 @@
 
 | Status | Contribution Link |
 | :--- | :--- |
-| 🚀 **All PRs** | [View My Contributions](https://github.com/pulls?q=is%3Apr+author%3AAnkit-raj-11) |
-| ✅ **Merged** | [View Impact](https://github.com/pulls?q=is%3Apr+author%3AAnkit-raj-11+is%3Amerged) |
-| 🛠️ **In Progress** | [Active Reviews](https://github.com/pulls?q=is%3Apr+author%3AAnkit-raj-11+is%3Aopen) |
+| 🚀 **All PRs** | [View My Contributions](https://github.com/pulls?q=is%3Apr+author%3AAnant00785) |
+| ✅ **Merged** | [View Impact](https://github.com/pulls?q=is%3Apr+author%3AAnant00785+is%3Amerged) |
+| 🛠️ **In Progress** | [Active Reviews](https://github.com/pulls?q=is%3Apr+author%3AAnant00785+is%3Aopen) |
 
 </div>
 
@@ -52,23 +52,23 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Ankit-raj-11&show_icons=true&theme=dark&title_color=ff2c2c&icon_color=ff2c2c&text_color=ffffff&bg_color=000000&hide_border=true&show=prs_merged,reviews" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Anant00785&show_icons=true&theme=dark&title_color=ff2c2c&icon_color=ff2c2c&text_color=ffffff&bg_color=000000&hide_border=true&show=prs_merged,reviews" />
   
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Ankit-raj-11&theme=dark&fire=ff2c2c&ring=ff2c2c&sideLabels=ffffff&date_format=M%20j%5B%2C%20Y%5D&background=000000&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Anant00785&theme=dark&fire=ff2c2c&ring=ff2c2c&sideLabels=ffffff&date_format=M%20j%5B%2C%20Y%5D&background=000000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ankit-raj-11&layout=compact&theme=dark&title_color=ff2c2c&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anant00785&layout=compact&theme=dark&title_color=ff2c2c&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=8" />
   
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Ankit-raj-11&theme=onedark&no-frame=true&column=3&margin-w=15&title=Stars,Followers,Commit,Repositories,PullRequest" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Anant00785&theme=onedark&no-frame=true&column=3&margin-w=15&title=Stars,Followers,Commit,Repositories,PullRequest" />
 </p>
 ---
 
 <div align="center">
 
 ### 🏅 Recognition
-<a href="https://holopin.io/@ankitraj11">
-  <img src="https://holopin.me/ankitraj11" width="80%" alt="@ankitraj11's Holopin board" />
+<a href="https://holopin.io/@Anant00785">
+  <img src="https://holopin.me/Anant00785" width="80%" alt="@Anant00785's Holopin board" />
 </a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&color=ff2c2c&width=500&lines=Keep+Learning...;Keep+Building...;Shipping+Open+Source+🚀" />
