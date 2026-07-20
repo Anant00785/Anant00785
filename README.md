@@ -79,7 +79,7 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### Anant Contribution
 
 <img src="https://raw.githubusercontent.com/Anant00785/Anant00785/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
