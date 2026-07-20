@@ -74,3 +74,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&color=ff2c2c&width=500&lines=Keep+Learning...;Keep+Building...;Shipping+Open+Source+🚀" />
 
 </div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Anant00785/Anant00785/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
